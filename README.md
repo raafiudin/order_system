@@ -6,3 +6,8 @@ Sistem memungkinkan pengguna untuk:
 * Menampilkan menu makanan
 * Memilih dan memesan makanan
 * Melihat keranjang pesanan
+* Melakukan pembayaran dan mendapatkan kembalian
+## Definisi, Akronim, dan Singkatan
+| Istilah |         Arti           |
+|---------|------------------------|
+| CLI     | Command Line Interface |
