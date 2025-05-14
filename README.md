@@ -8,6 +8,7 @@ Sistem memungkinkan pengguna untuk:
 * Melihat keranjang pesanan
 * Melakukan pembayaran dan mendapatkan kembalian
 ## Definisi, Akronim, dan Singkatan
-| Istilah |         Arti           |
-|---------|------------------------|
-| CLI     | Command Line Interface |
+| Istilah |                 Arti               |
+|---------|------------------------------------|
+| CLI     | Command Line Interface             |
+| SRS     | Software Requirement Specification |
