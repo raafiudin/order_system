@@ -12,3 +12,4 @@ Sistem memungkinkan pengguna untuk:
 |---------|------------------------------------|
 | CLI     | Command Line Interface             |
 | SRS     | Software Requirement Specification |
+| SDD     | Software Design Description        |
